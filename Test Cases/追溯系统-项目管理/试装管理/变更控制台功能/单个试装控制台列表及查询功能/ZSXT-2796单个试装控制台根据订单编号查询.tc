@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-2796单个试装控制台根据订单编号查询</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>90a2fa18-4f71-4db6-9a94-99d7a7a69d4e</testCaseGuid>
+</TestCaseEntity>

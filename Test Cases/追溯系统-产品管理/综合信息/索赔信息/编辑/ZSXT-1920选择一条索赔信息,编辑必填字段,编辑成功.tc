@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-1920选择一条索赔信息,编辑必填字段,编辑成功</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8c987e76-36ad-49a2-8473-99db513741fb</testCaseGuid>
+   <variable>
+      <defaultValue>'2'</defaultValue>
+      <description></description>
+      <id>08cd738d-feb2-45c9-902e-d182b8ac5af5</id>
+      <masked>false</masked>
+      <name>free</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZTTCM-3044根据产品ID查询故障信息</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a8202940-2624-46aa-8942-847a110e8708</testCaseGuid>
+</TestCaseEntity>

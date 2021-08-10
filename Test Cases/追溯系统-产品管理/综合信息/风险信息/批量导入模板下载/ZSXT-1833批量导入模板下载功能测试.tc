@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-1833批量导入模板下载功能测试</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>41e2c4a6-3ce5-4c34-8e3a-bbe61f735504</testCaseGuid>
+</TestCaseEntity>

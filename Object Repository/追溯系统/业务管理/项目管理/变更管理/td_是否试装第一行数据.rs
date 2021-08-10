@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_是否试装第一行数据</name>
+   <tag></tag>
+   <elementGuidId>6e33f3d4-8ecf-4740-b482-38ea4ec28da5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/section/section/main/div/div[3]/div/div[2]/div/div[2]/div/div/div/div/div/div/table/tbody/tr[1]/td[23]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-table-column-has-actions ant-table-column-has-sorters ant-table-row-cell-ellipsis ant-table-row-cell-break-word</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>是</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>是</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;screen-xl&quot;]/section[@class=&quot;ant-layout ant-layout-has-sider&quot;]/section[@class=&quot;ant-layout&quot;]/main[@class=&quot;antd-pro-layouts-basic-layout-content ant-layout-content&quot;]/div[@class=&quot;ant-tabs ant-tabs-top ant-tabs-card ant-tabs-editable-card ant-tabs-no-animation&quot;]/div[@class=&quot;ant-tabs-content ant-tabs-content-no-animated ant-tabs-top-content ant-tabs-card-content&quot;]/div[@class=&quot;ant-tabs-tabpane ant-tabs-tabpane-active&quot;]/div[@class=&quot;ant-card ant-card-bordered&quot;]/div[@class=&quot;ant-card-body&quot;]/div[@class=&quot;ant-table-wrapper&quot;]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;ant-table ant-table-default ant-table-bordered ant-table-layout-fixed ant-table-scroll-position-right&quot;]/div[@class=&quot;ant-table-content&quot;]/div[@class=&quot;ant-table-scroll&quot;]/div[@class=&quot;ant-table-body&quot;]/table[@class=&quot;ant-table-fixed&quot;]/tbody[@class=&quot;ant-table-tbody&quot;]/tr[@class=&quot;ant-table-row  ant-table-row-hover ant-table-row-level-0&quot;]/td[@class=&quot;ant-table-column-has-actions ant-table-column-has-sorters ant-table-row-cell-ellipsis ant-table-row-cell-break-word&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/section/section/main/div/div[3]/div/div[2]/div/div[2]/div/div/div/div/div/div/table/tbody/tr/td[23]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='自然切换'])[1]/following::td[4]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='标准变更'])[1]/following::td[5]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='P210302H005-5'])[1]/preceding::td[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='评审通过'])[2]/preceding::td[6]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[23]</value>
+   </webElementXpaths>
+</WebElementEntity>

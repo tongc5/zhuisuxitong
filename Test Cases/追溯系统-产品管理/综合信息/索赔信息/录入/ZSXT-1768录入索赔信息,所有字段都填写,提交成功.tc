@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-1768录入索赔信息,所有字段都填写,提交成功</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>151920f9-9ee4-49ae-89ae-128aec94dbc7</testCaseGuid>
+   <variable>
+      <defaultValue>'2'</defaultValue>
+      <description></description>
+      <id>11418347-3617-47ed-b2c0-2231b478df8d</id>
+      <masked>false</masked>
+      <name>free</name>
+   </variable>
+</TestCaseEntity>

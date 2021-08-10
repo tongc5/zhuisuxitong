@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-1913编辑风险信息时产品ID校验</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>695d9d53-9a3c-4746-99fb-9ca9d93ebada</testCaseGuid>
+</TestCaseEntity>

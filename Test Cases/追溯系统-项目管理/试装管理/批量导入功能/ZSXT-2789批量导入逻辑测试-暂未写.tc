@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-2789批量导入逻辑测试-暂未写</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b188c19d-dd44-4da6-bffe-8ae2396daefa</testCaseGuid>
+   <variable>
+      <defaultValue>'202010'</defaultValue>
+      <description></description>
+      <id>bd7fe003-c891-46b5-9d34-edf11c4cc56a</id>
+      <masked>false</masked>
+      <name>changeId1</name>
+   </variable>
+</TestCaseEntity>

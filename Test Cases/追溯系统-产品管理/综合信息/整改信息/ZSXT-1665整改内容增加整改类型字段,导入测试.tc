@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-1665整改内容增加整改类型字段,导入测试</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>60696ac4-5a22-4f6e-a7eb-6697c0362cf0</testCaseGuid>
+</TestCaseEntity>

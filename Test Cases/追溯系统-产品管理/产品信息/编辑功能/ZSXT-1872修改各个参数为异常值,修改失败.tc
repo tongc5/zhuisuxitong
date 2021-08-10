@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-1872修改各个参数为异常值,修改失败</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb9c4ed2-5da5-4186-a6d8-71a26f0cd01c</testCaseGuid>
+</TestCaseEntity>

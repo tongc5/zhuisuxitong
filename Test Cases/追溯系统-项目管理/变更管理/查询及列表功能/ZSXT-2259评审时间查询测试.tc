@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-2259评审时间查询测试</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d5c4f75e-aaa1-45d9-8148-d5c6644917b6</testCaseGuid>
+   <variable>
+      <defaultValue>'2020-10-10'</defaultValue>
+      <description></description>
+      <id>06af86bf-8993-482f-9065-a976051982c2</id>
+      <masked>false</masked>
+      <name>review_time</name>
+   </variable>
+   <variable>
+      <defaultValue>'2000-10-10'</defaultValue>
+      <description></description>
+      <id>d5766ebb-4e54-4798-9744-17b3be3b3888</id>
+      <masked>false</masked>
+      <name>review_timeNotExsit</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-2710单个试装控制台根据试装编码查询</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4b4ebc2a-91ec-405b-bcfc-a28459f35211</testCaseGuid>
+</TestCaseEntity>

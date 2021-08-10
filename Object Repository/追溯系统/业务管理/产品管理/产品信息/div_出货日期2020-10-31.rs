@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_出货日期2020-10-31</name>
+   <tag></tag>
+   <elementGuidId>1b87a3e2-384e-4833-8427-c45cd7fd4095</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '31' or . = '31')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='日'])[1]/following::div[34]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.ant-calendar-cell.ant-calendar-selected-start-date.ant-calendar-selected-end-date.ant-calendar-last-day-of-month.ant-calendar-selected-day > div.ant-calendar-date</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-calendar-date</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>true</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>31</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[2]/div[1]/div[@class=&quot;ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft&quot;]/div[@class=&quot;ant-calendar-range-with-ranges ant-calendar ant-calendar-range&quot;]/div[@class=&quot;ant-calendar-panel&quot;]/div[@class=&quot;ant-calendar-date-panel&quot;]/div[@class=&quot;ant-calendar-range-part ant-calendar-range-left&quot;]/div[2]/div[@class=&quot;ant-calendar-body&quot;]/table[@class=&quot;ant-calendar-table&quot;]/tbody[@class=&quot;ant-calendar-tbody&quot;]/tr[@class=&quot;ant-calendar-active-week&quot;]/td[@class=&quot;ant-calendar-cell ant-calendar-selected-start-date ant-calendar-selected-end-date ant-calendar-last-day-of-month ant-calendar-selected-day&quot;]/div[@class=&quot;ant-calendar-date&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='日'])[1]/following::div[34]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='六'])[1]/following::div[34]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='~'])[1]/preceding::div[9]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='一'])[2]/preceding::div[13]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='31']/parent::*</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td[6]/div</value>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SIM卡信息全选框</name>
+   <tag></tag>
+   <elementGuidId>8b0aede1-f908-4cf1-95ff-1c6b3221e3cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;root&quot;]/div/div[2]/section/section/main/div/div[3]/div/div[2]/div/div[2]/div/div/div/div/div[2]/div/div/table/thead/tr/th[1]/span/div/span[1]/div/label/span/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

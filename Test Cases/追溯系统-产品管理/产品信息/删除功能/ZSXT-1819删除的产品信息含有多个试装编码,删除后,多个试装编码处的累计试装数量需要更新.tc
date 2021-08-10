@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-1819删除的产品信息含有多个试装编码,删除后,多个试装编码处的累计试装数量需要更新</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d25f58d0-7e07-4bc1-8d77-1e7553c81610</testCaseGuid>
+</TestCaseEntity>

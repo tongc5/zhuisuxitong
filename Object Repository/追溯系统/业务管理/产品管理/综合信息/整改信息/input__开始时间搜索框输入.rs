@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input__开始时间搜索框输入</name>
+   <tag></tag>
+   <elementGuidId>b8794c67-393d-4df9-8d4c-991b1112e2ae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/div/div/div/div/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-calendar-input </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>开始日期</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[4]/div[1]/div[@class=&quot;ant-calendar-picker-container ant-calendar-picker-container-placement-bottomLeft&quot;]/div[@class=&quot;ant-calendar-range-with-ranges ant-calendar ant-calendar-range&quot;]/div[@class=&quot;ant-calendar-panel&quot;]/div[@class=&quot;ant-calendar-date-panel&quot;]/div[@class=&quot;ant-calendar-range-part ant-calendar-range-left&quot;]/div[@class=&quot;ant-calendar-input-wrap&quot;]/div[@class=&quot;ant-calendar-date-input-wrap&quot;]/input[@class=&quot;ant-calendar-input&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[77]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/input</value>
+   </webElementXpaths>
+</WebElementEntity>

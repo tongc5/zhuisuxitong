@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-1936录入风险信息,所有字段都填写,提交成功</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>58005b20-3003-4b3d-8d1e-169d6de6e949</testCaseGuid>
+   <variable>
+      <defaultValue>'风险原因1'</defaultValue>
+      <description></description>
+      <id>1241665d-fd65-4762-abb9-65f1e5844f44</id>
+      <masked>false</masked>
+      <name>risk_reason</name>
+   </variable>
+   <variable>
+      <defaultValue>'对策情况1'</defaultValue>
+      <description></description>
+      <id>564022aa-d649-46c4-8d26-b498bfddf747</id>
+      <masked>false</masked>
+      <name>countermeasureCondition</name>
+   </variable>
+   <variable>
+      <defaultValue>'故障现象1'</defaultValue>
+      <description></description>
+      <id>abd178bf-1d94-48d6-94a3-b646c373ea1c</id>
+      <masked>false</masked>
+      <name>breakdownPhenomenon</name>
+   </variable>
+   <variable>
+      <defaultValue>'对策内容1'</defaultValue>
+      <description></description>
+      <id>f64da06d-b5d4-4045-b4b5-5a7bedcc2623</id>
+      <masked>false</masked>
+      <name>countermeasureContent</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>批量导入</name>
+   <tag></tag>
+   <elementGuidId>1dce93a8-bfa9-48a8-8e7a-3f7f9582f2e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;root&quot;]/div/div[2]/section/section/main/div/div[3]/div/div[2]/div/div[1]/form/div[1]/span[2]/div/span/input</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

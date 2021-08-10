@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-2742批量导入功能测试</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d1afea80-6325-4238-aea2-5f9f9144e999</testCaseGuid>
+   <variable>
+      <defaultValue>'202010'</defaultValue>
+      <description></description>
+      <id>f488665e-2c4f-457d-9dae-1ce0cc3bd050</id>
+      <masked>false</masked>
+      <name>changeId1</name>
+   </variable>
+</TestCaseEntity>

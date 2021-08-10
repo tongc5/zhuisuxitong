@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>编辑产品信息</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2ac13da-3fe2-4c11-912d-67c7d8be010f</testCaseGuid>
+   <variable>
+      <defaultValue>'test'</defaultValue>
+      <description></description>
+      <id>2bbeff36-5dca-4e25-8ef0-4690c1b6fd21</id>
+      <masked>false</masked>
+      <name>remark</name>
+   </variable>
+</TestCaseEntity>

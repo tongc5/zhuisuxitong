@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_删除</name>
+   <tag></tag>
+   <elementGuidId>b8d8c05f-60f6-4c73-a9fb-7f3be23f2582</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;root&quot;]/div/div[2]/section/section/main/div/div[3]/div/div[2]/div/div/div[3]/div[1]/div[2]/div[2]/div/div[1]/form/div/div/div[2]/div/div[1]/button[6]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[6][count(. | //*[@type = 'button' and (text() = '删除' or . = '删除')]) = count(//*[@type = 'button' and (text() = '删除' or . = '删除')])]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-row-flex.antd-pro-pages-cycle-product-general-info-breakdown-info-index-pageSearchBtnRow > button.ant-btn.ant-btn-danger</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn ant-btn-danger</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>删除</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//button[6]</value>
+   </webElementProperties>
+</WebElementEntity>

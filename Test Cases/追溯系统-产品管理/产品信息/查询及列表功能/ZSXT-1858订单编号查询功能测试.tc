@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>产品ID查询测试</description>
+   <name>ZSXT-1858订单编号查询功能测试</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e06d6f53-4dd4-4ff1-ac5c-0bb4283c8e26</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-2556修改可以为空的字段修改成功</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dbbac751-526a-405a-8bb5-32bc56a47415</testCaseGuid>
+</TestCaseEntity>

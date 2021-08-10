@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-1966查询列输入所有信息,点击清除按钮,清除成功</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>487f22da-6d75-4aba-8f29-04f684e7119a</testCaseGuid>
+</TestCaseEntity>

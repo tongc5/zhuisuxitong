@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-1753删除的数据保存在回收站里面</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3eb7ed37-4f36-4ebe-9ea4-81ee668b63b3</testCaseGuid>
+</TestCaseEntity>

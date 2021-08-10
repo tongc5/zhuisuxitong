@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-2721单个试装控制台根据出货日期查询</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>63df36fe-7533-4f56-a073-732c88a33bca</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-1865导入数据的试装编码不为空,需要对对应的试装编码数据的完成数量加1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>47d023dc-cd59-4d1f-9f85-7fcec6bf497d</testCaseGuid>
+</TestCaseEntity>

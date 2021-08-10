@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>批量导入风险信息</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3729e4cf-fac7-49d3-a22f-0200a592bed9</testCaseGuid>
+   <variable>
+      <defaultValue>'22000000000000'</defaultValue>
+      <description></description>
+      <id>851b2ad4-7e59-404e-af7e-9d535aca8fbd</id>
+      <masked>false</masked>
+      <name>productId1</name>
+   </variable>
+</TestCaseEntity>

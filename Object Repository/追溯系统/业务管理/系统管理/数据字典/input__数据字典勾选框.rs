@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input__数据字典勾选框</name>
+   <tag></tag>
+   <elementGuidId>40c599bc-d0a2-440e-8a7a-11539c0e87d9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@value=''])[48]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-tabs-tabpane.ant-tabs-tabpane-active > div.ant-card.ant-card-bordered > div.ant-card-body > div.ant-table-wrapper > div.ant-spin-nested-loading > div.ant-spin-container > div.ant-table.ant-table-default.ant-table-fixed-header.ant-table-scroll-position-left.ant-table-layout-fixed > div.ant-table-content > div.ant-table-scroll > div.ant-table-body > table > tbody.ant-table-tbody > tr.ant-table-row.ant-table-row-level-0 > td.ant-table-selection-column > span > label.ant-checkbox-wrapper > span.ant-checkbox > input.ant-checkbox-input</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'checkbox']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-checkbox-input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;screen-xl&quot;]/section[@class=&quot;ant-layout ant-layout-has-sider&quot;]/section[@class=&quot;ant-layout&quot;]/main[@class=&quot;antd-pro-layouts-basic-layout-content ant-layout-content&quot;]/div[@class=&quot;ant-tabs ant-tabs-top ant-tabs-card ant-tabs-editable-card ant-tabs-no-animation&quot;]/div[@class=&quot;ant-tabs-content ant-tabs-content-no-animated ant-tabs-top-content ant-tabs-card-content&quot;]/div[@class=&quot;ant-tabs-tabpane ant-tabs-tabpane-active&quot;]/div[@class=&quot;ant-card ant-card-bordered&quot;]/div[@class=&quot;ant-card-body&quot;]/div[@class=&quot;ant-table-wrapper&quot;]/div[@class=&quot;ant-spin-nested-loading&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;ant-table ant-table-default ant-table-fixed-header ant-table-scroll-position-left ant-table-layout-fixed&quot;]/div[@class=&quot;ant-table-content&quot;]/div[@class=&quot;ant-table-scroll&quot;]/div[@class=&quot;ant-table-body&quot;]/table[1]/tbody[@class=&quot;ant-table-tbody&quot;]/tr[@class=&quot;ant-table-row ant-table-row-level-0&quot;]/td[@class=&quot;ant-table-selection-column&quot;]/span[1]/label[@class=&quot;ant-checkbox-wrapper&quot;]/span[@class=&quot;ant-checkbox&quot;]/input[@class=&quot;ant-checkbox-input&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[48]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/section/section/main/div/div[3]/div[2]/div[2]/div/div[2]/div/div/div/div/div/div[2]/table/tbody/tr/td/span/label/span/input</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div/div/div/div[2]/table/tbody/tr/td/span/label/span/input</value>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_包含22000</name>
+   <tag></tag>
+   <elementGuidId>d204fd97-099b-4398-8e3f-6a34a402cf4d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id='root']/div/div[2]/section/section/main/div/div[3]/div/div[2]/div/div/div[3]/div[2]/div[2]/div/div[2]/div/div/div/div/div[2]/div/div/table/tbody/tr/td[2]/a[count(. | //a[(contains(text(), '22000') or contains(., '22000'))]) = count(//a[(contains(text(), '22000') or contains(., '22000'))])]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-table-body-inner > table.ant-table-fixed > tbody.ant-table-tbody > tr.ant-table-row.ant-table-row-hover.ant-table-row-level-0 > td.ant-table-row-cell-ellipsis.ant-table-row-cell-break-word > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/section/section/main/div/div[3]/div/div[2]/div/div/div[3]/div[2]/div[2]/div/div[2]/div/div/div/div/div[2]/div[2]/div/table/tbody/tr/td[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>22000</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/section/section/main/div/div[3]/div/div[2]/div/div/div[3]/div[2]/div[2]/div/div[2]/div/div/div/div/div[2]/div/div/table/tbody/tr/td[2]/a</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/section/section/main/div/div[3]/div/div[2]/div/div/div[3]/div[2]/div[2]/div/div[2]/div/div/div/div/div[2]/div[2]/div/table/tbody/tr/td[2]/a</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'2200000000000001')])[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='产品ID'])[7]/following::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='张三'])[1]/following::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='显示条目 1-1 共 1'])[1]/preceding::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='产品控制台'])[1]/preceding::a[4]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div[2]/div/div/div/div/div[2]/div[2]/div/table/tbody/tr/td[2]/a</value>
+   </webElementXpaths>
+</WebElementEntity>

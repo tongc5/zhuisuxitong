@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_202010001</name>
+   <tag></tag>
+   <elementGuidId>abd2e0ae-8f0e-4d7d-8c3f-f75cdd149b8d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id='root']/div/div[2]/section/section/main/div/div[3]/div/div[2]/div/div[2]/div/div/div/div/div[2]/div/div/table/tbody/tr/td[2]/a[count(. | //a[(text() = '${GlobalVariable.changeId1}' or . = '${GlobalVariable.changeId1}')]) = count(//a[(text() = '${GlobalVariable.changeId1}' or . = '${GlobalVariable.changeId1}')])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table/tbody/tr/td[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-table-body-inner > table.ant-table-fixed > tbody.ant-table-tbody > tr.ant-table-row.ant-table-row-hover.ant-table-row-level-0 > td.ant-table-row-cell-ellipsis.ant-table-row-cell-break-word > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>${GlobalVariable.changeId1}</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/section/section/main/div/div[3]/div/div[2]/div/div[2]/div/div/div/div/div[2]/div/div/table/tbody/tr/td[2]/a</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/section/section/main/div/div[3]/div/div[2]/div/div[2]/div/div/div/div/div[2]/div/div/table/tbody/tr/td[2]/a</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'202010001')])[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='变更编码'])[3]/following::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='备注1'])[1]/following::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='显示条目 1-1 共 1'])[1]/preceding::a[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='变更控制台'])[1]/preceding::a[4]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/table/tbody/tr/td[2]/a</value>
+   </webElementXpaths>
+</WebElementEntity>

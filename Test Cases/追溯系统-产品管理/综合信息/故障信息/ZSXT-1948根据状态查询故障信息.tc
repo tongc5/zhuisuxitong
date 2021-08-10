@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-1948根据状态查询故障信息</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a416f4e1-ec5b-4e09-ac2a-b74f315e8628</testCaseGuid>
+</TestCaseEntity>

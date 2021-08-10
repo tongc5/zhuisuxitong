@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>批量导入试装信息</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>771803dc-2935-4bed-aa11-a34047a8e921</testCaseGuid>
+   <variable>
+      <defaultValue>'test0001'</defaultValue>
+      <description></description>
+      <id>c338cf2f-fc3c-4459-83aa-c96f6e8216bd</id>
+      <masked>false</masked>
+      <name>try_name</name>
+   </variable>
+</TestCaseEntity>

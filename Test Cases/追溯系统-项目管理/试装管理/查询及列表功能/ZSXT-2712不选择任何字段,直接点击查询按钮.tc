@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-2712不选择任何字段,直接点击查询按钮</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b7610cb2-cdf8-4d54-9360-44d8e1dc10c1</testCaseGuid>
+</TestCaseEntity>

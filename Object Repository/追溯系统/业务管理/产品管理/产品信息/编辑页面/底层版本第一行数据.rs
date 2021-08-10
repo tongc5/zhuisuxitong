@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>底层版本第一行数据</name>
+   <tag></tag>
+   <elementGuidId>52be6e54-ef97-4923-8598-c51e89921038</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;root&quot;]/div/div[2]/section/section/main/div/div[3]/div/div[2]/div/div[2]/div/div/div/div/div[1]/div/table/tbody/tr/td[6]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>table/tbody/tr/td[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>table/tbody/tr/td[6]</value>
+   </webElementProperties>
+</WebElementEntity>

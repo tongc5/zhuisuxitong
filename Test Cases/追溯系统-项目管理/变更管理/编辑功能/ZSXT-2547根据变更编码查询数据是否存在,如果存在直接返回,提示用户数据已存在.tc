@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-2547根据变更编码查询数据是否存在,如果存在直接返回,提示用户数据已存在</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>46351cae-7b0a-4517-af9c-6a071f30fc4c</testCaseGuid>
+   <variable>
+      <defaultValue>'202010002'</defaultValue>
+      <description></description>
+      <id>a6e0e872-6a26-4946-a524-618818841b93</id>
+      <masked>false</masked>
+      <name>change_id2</name>
+   </variable>
+</TestCaseEntity>

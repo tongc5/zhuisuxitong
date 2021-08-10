@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-1755直接点击清除按钮,清除成功</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a83ce316-3c8c-494f-8fb6-4a090adc72fc</testCaseGuid>
+</TestCaseEntity>

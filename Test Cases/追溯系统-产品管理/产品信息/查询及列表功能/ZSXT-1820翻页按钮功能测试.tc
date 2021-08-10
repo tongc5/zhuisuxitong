@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>产品ID查询测试</description>
+   <name>ZSXT-1820翻页按钮功能测试</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd0ce4d3-931e-48e1-8fe2-e304904ae5b5</testCaseGuid>
+</TestCaseEntity>

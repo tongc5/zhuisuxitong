@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>产品ID查询测试</description>
+   <name>ZSXT-1981客户流向状态查询功能测试</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3c3030b4-1b0a-4ebb-8110-f3ec2fea6cde</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-1744批量导入功能测试</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8bab8301-e467-4165-ad67-c712ef729166</testCaseGuid>
+   <variable>
+      <defaultValue>'22000000000000'</defaultValue>
+      <description></description>
+      <id>76ff0a37-ec84-4f67-b8ca-7219e2618e2b</id>
+      <masked>false</masked>
+      <name>productId1</name>
+   </variable>
+</TestCaseEntity>

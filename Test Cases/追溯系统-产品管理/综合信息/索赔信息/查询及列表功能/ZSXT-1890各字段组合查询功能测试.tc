@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-1890各字段组合查询功能测试</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f40c5219-63ba-4bb0-9427-d6651e1a2e1c</testCaseGuid>
+</TestCaseEntity>

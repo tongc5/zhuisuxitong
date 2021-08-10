@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_客户流向状态搜索框</name>
+   <tag></tag>
+   <elementGuidId>aeb2e464-60a3-43a2-b24a-c7412b9d8956</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='customerStatus']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-select-search__field__wrap > #customerStatus</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>customerStatus</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-search__field</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;screen-xl&quot;]/section[@class=&quot;ant-layout ant-layout-has-sider&quot;]/section[@class=&quot;ant-layout&quot;]/main[@class=&quot;antd-pro-layouts-basic-layout-content ant-layout-content&quot;]/div[@class=&quot;ant-tabs ant-tabs-top ant-tabs-card ant-tabs-editable-card ant-tabs-no-animation&quot;]/div[@class=&quot;ant-tabs-content ant-tabs-content-no-animated ant-tabs-top-content ant-tabs-card-content&quot;]/div[@class=&quot;ant-tabs-tabpane ant-tabs-tabpane-active&quot;]/div[@class=&quot;ant-card&quot;]/div[@class=&quot;ant-card-body&quot;]/div[@class=&quot;ant-card&quot;]/div[@class=&quot;ant-card-body&quot;]/div[2]/form[@class=&quot;ant-form ant-form-vertical&quot;]/div[@class=&quot;ant-row-flex antd-pro-pages-cycle-project-attempt-install-manage-index-pageSearchInputRow&quot;]/div[@class=&quot;ant-col&quot;]/div[@class=&quot;ant-row ant-form-item&quot;]/div[@class=&quot;ant-col ant-form-item-control-wrapper&quot;]/div[@class=&quot;ant-form-item-control&quot;]/span[@class=&quot;ant-form-item-children&quot;]/div[@id=&quot;customerStatus&quot;]/div[@class=&quot;ant-select-selection
+            ant-select-selection--multiple&quot;]/div[@class=&quot;ant-select-selection__rendered&quot;]/ul[1]/li[@class=&quot;ant-select-search ant-select-search--inline&quot;]/div[@class=&quot;ant-select-search__field__wrap&quot;]/input[@id=&quot;customerStatus&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='customerStatus']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='customerStatus']/div/div/ul/li/div/input</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div[2]/div/span/div/div/div/ul/li/div/input</value>
+   </webElementXpaths>
+</WebElementEntity>

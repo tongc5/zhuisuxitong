@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_domain</name>
+   <tag></tag>
+   <elementGuidId>a6fce251-2710-4f94-88af-f0dcd5d7bcad</elementGuidId>
+   <imagePath>Screenshots/Targets/Page_ - WISDOM/div_domain.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-tabs-tab-active.ant-tabs-tab</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value>Screenshots/Targets/Page_ - WISDOM/div_domain.png</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '域账号' or . = '域账号')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/form/div/div/div/div/div/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>tab</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>true</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-tabs-tab-active ant-tabs-tab</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>域账号</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;antd-pro-layouts-user-layout-container&quot;]/div[@class=&quot;antd-pro-layouts-user-layout-content&quot;]/div[@class=&quot;antd-pro-pages-user-login-main&quot;]/div[@class=&quot;antd-pro-components-login-index-login&quot;]/form[@class=&quot;ant-form ant-form-horizontal&quot;]/div[@class=&quot;ant-tabs ant-tabs-top ant-tabs-line ant-tabs-no-animation&quot;]/div[@class=&quot;ant-tabs-bar ant-tabs-top-bar&quot;]/div[@class=&quot;ant-tabs-nav-container&quot;]/div[@class=&quot;ant-tabs-nav-wrap&quot;]/div[@class=&quot;ant-tabs-nav-scroll&quot;]/div[@class=&quot;ant-tabs-nav ant-tabs-nav-animated&quot;]/div[1]/div[@class=&quot;ant-tabs-tab-active ant-tabs-tab&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/form/div/div/div/div/div/div/div/div[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='账户密码'])[1]/following::div[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EVI智慧服务管理平台'])[1]/following::div[12]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EVI APP用户'])[1]/preceding::div[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='登录'])[1]/preceding::div[23]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='域账号']/parent::*</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div/div[2]</value>
+   </webElementXpaths>
+</WebElementEntity>

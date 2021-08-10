@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-1944根据是否索赔查询故障信息</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0d5e8872-af37-4aee-8e17-87cc2ac2c0ed</testCaseGuid>
+</TestCaseEntity>

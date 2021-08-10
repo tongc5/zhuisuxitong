@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>产品ID查询测试</description>
+   <name>ZSXT-1850试装名称查询功能测试</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e3061cb6-9686-4e8b-884e-1b2b0aa5c6eb</testCaseGuid>
+</TestCaseEntity>

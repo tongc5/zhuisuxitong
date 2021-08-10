@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-1969批量导入功能测试-步骤6有已知问题</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a28216f9-1595-475c-a485-caf2399d4891</testCaseGuid>
+   <variable>
+      <defaultValue>'202010'</defaultValue>
+      <description></description>
+      <id>d0ec3f17-d331-437d-8ac3-cc9c77e3279c</id>
+      <masked>false</masked>
+      <name>changeId1</name>
+   </variable>
+</TestCaseEntity>

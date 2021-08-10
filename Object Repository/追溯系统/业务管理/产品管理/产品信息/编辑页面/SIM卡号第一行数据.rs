@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SIM卡号第一行数据</name>
+   <tag></tag>
+   <elementGuidId>d16d4030-95f0-4337-b3c7-86c9e06de700</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;root&quot;]/div/div[2]/section/section/main/div/div[3]/div/div[2]/div/div[2]/div/div/div/div/div[1]/div/table/tbody/tr/td[4]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>table/tbody/tr/td[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>ends with</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>table/tbody/tr/td[4]</value>
+   </webElementProperties>
+</WebElementEntity>

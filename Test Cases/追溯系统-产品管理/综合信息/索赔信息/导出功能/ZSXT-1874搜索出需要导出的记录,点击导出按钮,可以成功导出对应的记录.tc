@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-1874搜索出需要导出的记录,点击导出按钮,可以成功导出对应的记录</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>99fd5ea5-728a-429b-a759-924e35660021</testCaseGuid>
+</TestCaseEntity>

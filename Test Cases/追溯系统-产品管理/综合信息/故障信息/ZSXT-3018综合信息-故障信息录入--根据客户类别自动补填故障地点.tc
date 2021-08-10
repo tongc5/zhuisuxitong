@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-3018综合信息-故障信息录入--根据客户类别自动补填故障地点</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>09fb0600-0c20-4e12-9366-36f139adf750</testCaseGuid>
+   <variable>
+      <defaultValue>'小挖'</defaultValue>
+      <description></description>
+      <id>5500751e-c649-4862-99ca-898cff3d7424</id>
+      <masked>false</masked>
+      <name>customerType1</name>
+   </variable>
+   <variable>
+      <defaultValue>'小挖厂内'</defaultValue>
+      <description></description>
+      <id>707ab548-9a6a-4154-b6c7-0e76b9d59d3b</id>
+      <masked>false</masked>
+      <name>breakdownSite1</name>
+   </variable>
+</TestCaseEntity>

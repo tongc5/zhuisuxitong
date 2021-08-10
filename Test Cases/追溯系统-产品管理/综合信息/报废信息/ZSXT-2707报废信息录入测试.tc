@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-2707报废信息录入测试</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>99c64430-2737-4b3d-8c0e-77ac2f6bc670</testCaseGuid>
+   <variable>
+      <defaultValue>'昆山'</defaultValue>
+      <description></description>
+      <id>ccd530a7-916d-4cc0-bcad-127a55e80d67</id>
+      <masked>false</masked>
+      <name>place</name>
+   </variable>
+   <variable>
+      <defaultValue>'tc'</defaultValue>
+      <description></description>
+      <id>d54ba5a6-4b6a-4330-ba09-54f4247e4b1e</id>
+      <masked>false</masked>
+      <name>person</name>
+   </variable>
+</TestCaseEntity>

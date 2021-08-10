@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-2695报废信息编辑测试</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ecd293e2-c586-4446-8e69-e7b7b2c46aa8</testCaseGuid>
+   <variable>
+      <defaultValue>'tc'</defaultValue>
+      <description></description>
+      <id>e0019489-4a11-4f96-ba26-63dee0a597d8</id>
+      <masked>false</masked>
+      <name>person</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-1918物料编码录入测试</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>97e19ae3-d456-42a5-9363-6ffe0b658aa7</testCaseGuid>
+   <variable>
+      <defaultValue>'01234567890123456789012345678901234567890123456789'</defaultValue>
+      <description></description>
+      <id>606633bd-eb62-42b3-bcd0-0c6b1ca9951a</id>
+      <masked>false</masked>
+      <name>string_50</name>
+   </variable>
+   <variable>
+      <defaultValue>'0123456789012345678901234567890123456789012345678'</defaultValue>
+      <description></description>
+      <id>b138d977-9741-4ac2-856a-2cf87a073dbb</id>
+      <masked>false</masked>
+      <name>string_49</name>
+   </variable>
+   <variable>
+      <defaultValue>'012345678901234567890123456789012345678901234567890'</defaultValue>
+      <description></description>
+      <id>598adcba-42fb-4643-8d70-f3c6314f8f0e</id>
+      <masked>false</masked>
+      <name>string_51</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-2022工作时间录入测试</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7df7581a-2022-4ab2-b21b-ce49039a8380</testCaseGuid>
+   <variable>
+      <defaultValue>'1111111111'</defaultValue>
+      <description></description>
+      <id>8d6e4172-03d7-4924-a6e5-f42cd676c127</id>
+      <masked>false</masked>
+      <name>string_10</name>
+   </variable>
+   <variable>
+      <defaultValue>'111111111'</defaultValue>
+      <description></description>
+      <id>6485ce18-dbdd-4952-a4d7-425ab062fa3a</id>
+      <masked>false</masked>
+      <name>string_9</name>
+   </variable>
+   <variable>
+      <defaultValue>'11111111111'</defaultValue>
+      <description></description>
+      <id>8dcb90c8-26ab-4080-a54a-9667e4fb54da</id>
+      <masked>false</masked>
+      <name>string_11</name>
+   </variable>
+   <variable>
+      <defaultValue>'ss'</defaultValue>
+      <description></description>
+      <id>00ce3c94-9122-4946-9f67-a9af72f03f45</id>
+      <masked>false</masked>
+      <name>string_ss</name>
+   </variable>
+   <variable>
+      <defaultValue>'--'</defaultValue>
+      <description></description>
+      <id>bf92228b-e3de-49d5-83e1-04cbb9d63878</id>
+      <masked>false</masked>
+      <name>string_</name>
+   </variable>
+</TestCaseEntity>

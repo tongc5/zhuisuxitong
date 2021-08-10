@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-2247是否试装查询测试</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>86f9787b-6e4f-448f-ae07-23a03e4ced32</testCaseGuid>
+   <variable>
+      <defaultValue>'是'</defaultValue>
+      <description></description>
+      <id>10ef26f7-adea-40a3-a524-468e0b53aa52</id>
+      <masked>false</masked>
+      <name>try_yes</name>
+   </variable>
+   <variable>
+      <defaultValue>'否'</defaultValue>
+      <description></description>
+      <id>39010801-5ccd-418e-8bc5-70ec6247413d</id>
+      <masked>false</masked>
+      <name>try_no</name>
+   </variable>
+</TestCaseEntity>

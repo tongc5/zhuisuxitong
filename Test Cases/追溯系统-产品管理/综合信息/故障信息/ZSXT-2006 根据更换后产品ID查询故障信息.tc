@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-2006 根据更换后产品ID查询故障信息</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aead7d5b-00d3-4939-b169-8908b326db05</testCaseGuid>
+</TestCaseEntity>

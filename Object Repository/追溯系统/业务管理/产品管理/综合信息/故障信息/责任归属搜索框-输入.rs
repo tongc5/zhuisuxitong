@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>责任归属搜索框-输入</name>
+   <tag></tag>
+   <elementGuidId>3298083a-846d-4709-b2d9-bf634aa58b6c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div/div[2]/section/section/main/div/div[3]/div/div[2]/div/div/div[3]/div[1]/div[2]/div[2]/div/div[1]/form/div[2]/div[5]/div/div[2]/div/span/div/div/div/ul/li/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

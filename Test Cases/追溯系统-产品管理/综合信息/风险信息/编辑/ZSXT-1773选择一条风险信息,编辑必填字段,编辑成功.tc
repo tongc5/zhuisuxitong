@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-1773选择一条风险信息,编辑必填字段,编辑成功</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>518c975e-31bc-4758-bf00-ed6188ae1ce6</testCaseGuid>
+   <variable>
+      <defaultValue>'风险原因2'</defaultValue>
+      <description></description>
+      <id>5c5e07bd-a9c1-4dc7-a0a8-6870f3774089</id>
+      <masked>false</masked>
+      <name>risk_reason2</name>
+   </variable>
+   <variable>
+      <defaultValue>'对策情况2'</defaultValue>
+      <description></description>
+      <id>e717fb34-5c70-449f-8935-a608c101a4fa</id>
+      <masked>false</masked>
+      <name>countermeasureCondition2</name>
+   </variable>
+   <variable>
+      <defaultValue>'故障现象2'</defaultValue>
+      <description></description>
+      <id>685f058a-779c-4786-9c1b-1922854107dd</id>
+      <masked>false</masked>
+      <name>breakdownPhenomenon2</name>
+   </variable>
+   <variable>
+      <defaultValue>'对策内容2'</defaultValue>
+      <description></description>
+      <id>0352a7e1-558b-4864-9af4-c36dcada5eb3</id>
+      <masked>false</masked>
+      <name>countermeasureContent2</name>
+   </variable>
+   <variable>
+      <defaultValue>'20210101'</defaultValue>
+      <description></description>
+      <id>4b7b3cce-3321-4767-a596-5e05f44a66d8</id>
+      <masked>false</masked>
+      <name>risk_num2</name>
+   </variable>
+</TestCaseEntity>

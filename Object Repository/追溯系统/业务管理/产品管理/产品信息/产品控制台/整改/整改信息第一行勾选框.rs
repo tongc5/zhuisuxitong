@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>整改信息第一行勾选框</name>
+   <tag></tag>
+   <elementGuidId>bec87cea-1c20-4c19-b806-3c9561838da0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;root&quot;]/div/div[2]/section/section/main/div/div[3]/div/div[5]/div[2]/div[1]/div[2]/div[2]/div[2]/div/div/div/div/div/div[2]/div/div/table/tbody/tr[1]/td[1]/span/label/span/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

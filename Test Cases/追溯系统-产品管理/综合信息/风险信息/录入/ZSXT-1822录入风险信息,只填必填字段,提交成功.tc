@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-1822录入风险信息,只填必填字段,提交成功</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4f4be610-0329-44a5-a05e-bd59bda4d7c7</testCaseGuid>
+   <variable>
+      <defaultValue>'风险原因1'</defaultValue>
+      <description></description>
+      <id>1f96ed34-bc72-4a65-af57-48331b1cff48</id>
+      <masked>false</masked>
+      <name>risk_reason</name>
+   </variable>
+   <variable>
+      <defaultValue>'对策情况1'</defaultValue>
+      <description></description>
+      <id>78c064d3-7b85-46b0-a903-b03daa9ba98e</id>
+      <masked>false</masked>
+      <name>countermeasureCondition</name>
+   </variable>
+   <variable>
+      <defaultValue>'故障现象1'</defaultValue>
+      <description></description>
+      <id>23cb2ac6-ef07-417b-8939-66970dd2a9b6</id>
+      <masked>false</masked>
+      <name>breakdownPhenomenon</name>
+   </variable>
+   <variable>
+      <defaultValue>'对策内容1'</defaultValue>
+      <description></description>
+      <id>c30108e2-3b81-463c-9ce4-875507cf71f1</id>
+      <masked>false</masked>
+      <name>countermeasureContent</name>
+   </variable>
+</TestCaseEntity>

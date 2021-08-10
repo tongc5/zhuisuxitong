@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-1967查询列输入所有信息,点击清除按钮,清除成功</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f3e627d6-6d21-4cfc-9eee-0298b7e5f3b4</testCaseGuid>
+   <variable>
+      <defaultValue>'222'</defaultValue>
+      <description></description>
+      <id>048ea950-51c2-4ae3-aebe-b7a79c5dc59b</id>
+      <masked>false</masked>
+      <name>bill_num</name>
+   </variable>
+   <variable>
+      <defaultValue>'2020-10-10'</defaultValue>
+      <description></description>
+      <id>69a786c7-ac8a-434d-91d6-1bb048ef05c0</id>
+      <masked>false</masked>
+      <name>change_time</name>
+   </variable>
+</TestCaseEntity>

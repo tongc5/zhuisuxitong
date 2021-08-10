@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-1945录入风险信息时产品ID校验</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8141cda2-432f-47d2-a57c-a1400a06ac75</testCaseGuid>
+</TestCaseEntity>

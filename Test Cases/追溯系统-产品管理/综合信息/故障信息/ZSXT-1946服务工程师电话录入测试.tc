@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-1946服务工程师电话录入测试</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e1e17006-6ec2-45cf-8da8-30cd825c0ef9</testCaseGuid>
+   <variable>
+      <defaultValue>'01234567890123456789'</defaultValue>
+      <description></description>
+      <id>681021a8-f928-424c-80bf-942503abaef3</id>
+      <masked>false</masked>
+      <name>string_20</name>
+   </variable>
+   <variable>
+      <defaultValue>'0123456789012345678'</defaultValue>
+      <description></description>
+      <id>a5860516-3bea-4c85-badc-9333b355d534</id>
+      <masked>false</masked>
+      <name>string_19</name>
+   </variable>
+   <variable>
+      <defaultValue>'012345678901234567890'</defaultValue>
+      <description></description>
+      <id>70da2c04-66c9-4100-9279-d95cb67ef4be</id>
+      <masked>false</masked>
+      <name>string_21</name>
+   </variable>
+</TestCaseEntity>

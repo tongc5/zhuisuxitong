@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-1724录入风险信息时机种名称校验</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5f895931-0642-41e0-a991-b27e5523f401</testCaseGuid>
+   <variable>
+      <defaultValue>'012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890'</defaultValue>
+      <description></description>
+      <id>300db94d-e4e7-4b53-b502-590da118de9c</id>
+      <masked>false</masked>
+      <name>String_201</name>
+   </variable>
+</TestCaseEntity>

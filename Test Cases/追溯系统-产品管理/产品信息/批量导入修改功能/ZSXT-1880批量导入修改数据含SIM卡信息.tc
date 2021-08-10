@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-1880批量导入修改数据含SIM卡信息</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fe0c2614-3695-4cbc-8417-cc8f6f01ab51</testCaseGuid>
+</TestCaseEntity>

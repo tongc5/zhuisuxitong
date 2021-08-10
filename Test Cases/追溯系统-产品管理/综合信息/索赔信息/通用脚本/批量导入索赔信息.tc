@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>批量导入索赔信息</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>46f94a44-dcbf-4450-82d2-de7d52acb6d1</testCaseGuid>
+   <variable>
+      <defaultValue>'22000000000000'</defaultValue>
+      <description></description>
+      <id>1e88ecff-488b-4312-9bd7-1621b94994da</id>
+      <masked>false</masked>
+      <name>productId1</name>
+   </variable>
+</TestCaseEntity>

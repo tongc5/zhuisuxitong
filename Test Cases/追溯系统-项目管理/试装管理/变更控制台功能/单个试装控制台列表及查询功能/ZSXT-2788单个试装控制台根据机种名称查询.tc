@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-2788单个试装控制台根据机种名称查询</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ef40463b-43f3-40f4-a262-d884b6deda69</testCaseGuid>
+</TestCaseEntity>

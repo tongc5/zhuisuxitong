@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-1832搜索出需要导出的记录,点击导出按钮,可以成功导出对应的记录</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2a58ee6a-bfc3-49be-844a-79b8576ba22a</testCaseGuid>
+</TestCaseEntity>

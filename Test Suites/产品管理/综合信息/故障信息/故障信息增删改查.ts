@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>故障信息增删改查</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>be38e1af-cb50-4aa2-aab5-89cabdfccfa4</testSuiteGuid>
+   <testCaseLink>
+      <guid>a4f502ed-1b37-4840-adb6-327f1ee96c77</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/故障信息/ZTTCM-3044根据产品ID查询故障信息</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b515acc2-277a-4fb6-a009-b9fbe494f3de</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/故障信息/ZTTCM-3063产品ID录入测试</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>4d934a97-fde6-4e5d-bbf3-acc64eb17d23</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/故障信息/ZTTCM-3094故障信息正确批量导入</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>2ddf64b5-191c-43b3-90c0-dded624cc91c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/故障信息/ZTTCM-3213故障信息正确删除</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>09fbbe19-1bf2-4ba7-9241-7b7741409999</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/故障信息/ZTTCM-9433导出1条记录</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>4c9a3c31-3059-4416-a52b-c4d77c154160</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/故障信息/ZSXT-1956故障信息输入框清除测试</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>21c0a429-ffad-41ae-888d-95c7831b4fa1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/故障信息/ZSXT-1788故障信息列表测试</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>95eb684f-725c-4f53-b0ec-02d87d9e440f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/故障信息/ZSXT-1974机种名称录入测试</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>00e5b0bd-dbcd-4798-93ef-2e7bf36d53d5</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/故障信息/ZSXT-1984其他字段录入测试</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>a6e3964b-75b1-42b6-b888-53d0c1d8b1ee</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/故障信息/ZSXT-2020根据设备机号查询故障信息</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>5485fdd7-1889-43b1-a362-e70dcc2bd73b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/故障信息/ZSXT-2006 根据更换后产品ID查询故障信息</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>84146926-fc11-4042-8a7d-d6c177fd4dc4</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/故障信息/ZSXT-1948根据状态查询故障信息</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>1d95be71-8a77-4a94-82e6-0fe59cda01d8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/故障信息/ZSXT-1757根据责任归属查询故障信息</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>25feccab-2915-45b0-809b-3094834d5c91</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/故障信息/ZSXT-1944根据是否索赔查询故障信息</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>4ddea9a9-931b-482c-bb60-3fca467941ec</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/故障信息/ZSXT-2006 根据更换后产品ID查询故障信息</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>0b2a535c-552f-4e51-bbd2-7a5f051db787</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/故障信息/ZSXT-1972故障标签录入测试</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>6df4af00-1576-42ac-ac99-efaa2e7c0669</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/故障信息/ZSXT-1988产品类别录入测试</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>51e4cfe7-624f-459c-a9d1-be1b512a562c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/故障信息/ZSXT-1884故障来源录入测试</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>2a0f29c8-e30f-41f6-a611-1b42a57c4939</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/故障信息/ZSXT-1976客户类别录入测试</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>02f3c4d2-f766-4930-a83c-6e5b53531181</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>dbaac668-d2d2-48a5-a394-019b956b5b06</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d98e6d3c-98f4-4ec8-8a21-bf2fee4b5ee6</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>0645d0de-1680-46ef-a772-949d22016ba7</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/故障信息/ZSXT-1812故障日期录入测试</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>1d25380e-49f3-4e2e-9314-5bf28255bbae</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/故障信息/ZSXT-1808故障地点录入测试</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>e29cc948-9fcd-4434-b460-5476e0e70ab8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>02692038-1b46-4315-b682-96b1fa00b6ec</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>5a3e437f-5ab9-412d-8905-2a81eead4b51</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>988cee59-eab1-4a48-b834-28925e411667</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/故障信息/ZSXT-1870状态录入测试</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e529f9cb-f2b2-4e7c-87e2-e948c836bfdc</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/故障信息/ZSXT-2022工作时间录入测试</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>8d6e4172-03d7-4924-a6e5-f42cd676c127</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>6485ce18-dbdd-4952-a4d7-425ab062fa3a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>8dcb90c8-26ab-4080-a54a-9667e4fb54da</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>00ce3c94-9122-4946-9f67-a9af72f03f45</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>bf92228b-e3de-49d5-83e1-04cbb9d63878</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>8db4ded8-9a4f-464b-9270-087f699dbe3c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/故障信息/ZSXT-1918物料编码录入测试</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>606633bd-eb62-42b3-bcd0-0c6b1ca9951a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b138d977-9741-4ac2-856a-2cf87a073dbb</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>598adcba-42fb-4643-8d70-f3c6314f8f0e</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>76a625d5-41a1-440c-b2cc-dee53fe5542a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/故障信息/ZSXT-2017更换后产品ID录入测试</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>16842540-c1bb-4712-96eb-2454179fa485</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/故障信息/ZSXT-1915故障现象录入测试</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>afe65b9b-9ae8-4a94-b2f5-52a048a7d8e7</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/故障信息/ZSXT-1942保内保外录入测试</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>c96ddaef-0826-457b-bc7c-e6d8fcad0aa0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/故障信息/ZSXT-1747是否需要回司录入测试</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>2d7e1ff5-d599-4daa-91c0-3a17ac5e09d6</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/故障信息/ZSXT-1789现场服务工程师姓名录入测试</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>89165729-71a3-44c7-9e80-9b25d691b9c3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>7dfd76e3-caf4-4bf3-ad0e-bb44912083fc</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>56518014-1396-4402-9b87-ba24d4443343</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>a220fc0e-b891-4762-8de5-b0ab5df8b629</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/故障信息/ZSXT-1946服务工程师电话录入测试</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>681021a8-f928-424c-80bf-942503abaef3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a5860516-3bea-4c85-badc-9333b355d534</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>70da2c04-66c9-4100-9279-d95cb67ef4be</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>cd0ff003-6a85-47f4-ab5a-f7f7dea83de1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/故障信息/ZSXT-1876华兴处理人录入测试</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>873eade4-58e5-4542-af3f-a8f7093b3ea9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>bc95d856-28b2-4f1a-b7d2-b0c97deaf52e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>799e0649-bd3d-470b-816d-49ea1a2dda8c</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>ef40ebf0-05e6-435a-b12b-1d164b1a80c5</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/故障信息/ZSXT-1906责任归属录入测试</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>99363f43-e2e6-4167-bd1c-1656dd32019f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/故障信息/ZSXT-1786华兴故障核对录入测试</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>2e24f178-1469-4c10-a362-9b90ccebfaa7</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>196db020-d009-4155-889a-7640257e9679</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>f9a229f8-2b43-4242-a497-41a4eda1677f</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>8a3c96b6-0946-4c90-84ad-1edca7eba12b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/故障信息/ZSXT-1932故障信息模板正常下载</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e79a1360-8a87-47a5-8813-3256e7f96235</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/故障信息/ZSXT-3018综合信息-故障信息录入--根据客户类别自动补填故障地点</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>5500751e-c649-4862-99ca-898cff3d7424</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>707ab548-9a6a-4154-b6c7-0e76b9d59d3b</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

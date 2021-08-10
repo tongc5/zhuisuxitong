@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-2544试装信息显示正确</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>74686338-4e2e-4792-bbef-ad1cd342a88e</testCaseGuid>
+   <variable>
+      <defaultValue>'test0001'</defaultValue>
+      <description></description>
+      <id>3a020474-8bc3-471e-8cb6-ea046277c15d</id>
+      <masked>false</masked>
+      <name>try_name</name>
+   </variable>
+</TestCaseEntity>

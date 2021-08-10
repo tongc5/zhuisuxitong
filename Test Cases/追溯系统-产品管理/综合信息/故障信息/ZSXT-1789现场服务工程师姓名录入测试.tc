@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-1789现场服务工程师姓名录入测试</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d6b036a4-cc2d-4289-a93b-3f108831a756</testCaseGuid>
+   <variable>
+      <defaultValue>'01234567890123456789012345678901234567890123456789'</defaultValue>
+      <description></description>
+      <id>89165729-71a3-44c7-9e80-9b25d691b9c3</id>
+      <masked>false</masked>
+      <name>string_50</name>
+   </variable>
+   <variable>
+      <defaultValue>'0123456789012345678901234567890123456789012345678'</defaultValue>
+      <description></description>
+      <id>7dfd76e3-caf4-4bf3-ad0e-bb44912083fc</id>
+      <masked>false</masked>
+      <name>string_49</name>
+   </variable>
+   <variable>
+      <defaultValue>'012345678901234567890123456789012345678901234567890'</defaultValue>
+      <description></description>
+      <id>56518014-1396-4402-9b87-ba24d4443343</id>
+      <masked>false</masked>
+      <name>string_51</name>
+   </variable>
+</TestCaseEntity>

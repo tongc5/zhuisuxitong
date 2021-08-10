@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-1976客户类别录入测试</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1e627e6b-ae0a-4d99-8dd4-5354f34605d1</testCaseGuid>
+   <variable>
+      <defaultValue>'0123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789'</defaultValue>
+      <description></description>
+      <id>02f3c4d2-f766-4930-a83c-6e5b53531181</id>
+      <masked>false</masked>
+      <name>string_100</name>
+   </variable>
+   <variable>
+      <defaultValue>'012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678'</defaultValue>
+      <description></description>
+      <id>dbaac668-d2d2-48a5-a394-019b956b5b06</id>
+      <masked>false</masked>
+      <name>string_99</name>
+   </variable>
+   <variable>
+      <defaultValue>'01234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567891'</defaultValue>
+      <description></description>
+      <id>d98e6d3c-98f4-4ec8-8a21-bf2fee4b5ee6</id>
+      <masked>false</masked>
+      <name>string_101</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-1816编辑索赔信息时产品ID校验</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ccff4efc-90ac-4d40-8566-18743f79c465</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-2013点击每页的全选按钮,选中当前页的所有记录,删除成功</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>271cf13a-66b9-4741-8408-791b887191b7</testCaseGuid>
+</TestCaseEntity>

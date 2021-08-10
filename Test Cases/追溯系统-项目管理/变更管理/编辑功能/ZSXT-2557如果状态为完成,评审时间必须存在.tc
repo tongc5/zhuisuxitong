@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-2557如果状态为完成,评审时间必须存在</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>46569141-4e9a-4d9d-bbc6-d8339ff0a572</testCaseGuid>
+</TestCaseEntity>

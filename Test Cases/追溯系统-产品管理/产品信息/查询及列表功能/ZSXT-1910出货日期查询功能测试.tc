@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>产品ID查询测试</description>
+   <name>ZSXT-1910出货日期查询功能测试</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea061448-a2a6-4695-874f-478ef225ae0d</testCaseGuid>
+</TestCaseEntity>

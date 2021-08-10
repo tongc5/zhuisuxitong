@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-1821选择需要删除的记录,删除成功</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d07159e1-fe0f-4d2c-a208-8a66a244ec4a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-2754导出16条记录</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6e673133-c2dc-4e6a-8c37-e3507d657ceb</testCaseGuid>
+   <variable>
+      <defaultValue>'test'</defaultValue>
+      <description></description>
+      <id>4ab7163a-6081-487b-a999-0cc9d0879703</id>
+      <masked>false</masked>
+      <name>trynum</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-2718报废信息清除测试</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>56233223-6104-4784-8b1d-ae69b89a3c38</testCaseGuid>
+   <variable>
+      <defaultValue>'tc'</defaultValue>
+      <description></description>
+      <id>b402e512-3537-43d6-aafb-72fc1a861033</id>
+      <masked>false</masked>
+      <name>person</name>
+   </variable>
+</TestCaseEntity>

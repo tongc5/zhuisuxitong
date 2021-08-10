@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-2552变更编码不能修改为空</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a7673ac0-4432-4653-bff4-a8b4c4e64dc7</testCaseGuid>
+</TestCaseEntity>

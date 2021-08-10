@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>风险信息增删改查</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>91e6c3fc-8e7a-4c35-baa0-881bb86e9f19</testSuiteGuid>
+   <testCaseLink>
+      <guid>0b6a1932-135d-4bfc-947d-5de7dc187d06</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/风险信息/批量导入模板下载/ZSXT-1833批量导入模板下载功能测试</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>ae2d6214-a075-4ae5-91b1-98fb3eff0d24</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/风险信息/批量导入功能/ZSXT-1744批量导入功能测试</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>76ff0a37-ec84-4f67-b8ca-7219e2618e2b</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>09b52f81-94dc-4ea6-ab05-59011524b267</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/风险信息/查询及列表功能/ZSXT-1938不选择任何字段,直接点击查询按钮</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>488bd462-3498-4b7d-b29f-ae4f71271cda</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/风险信息/查询及列表功能/ZSXT-1875产品ID查询测试</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d317266d-fde2-41a4-b17e-3d592c7bcb33</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/风险信息/查询及列表功能/ZSXT-1953风险编号查询测试</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>a947991a-ab42-4082-8c4d-c09e9e9698d4</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/风险信息/查询及列表功能/ZSXT-1997机种名称查询测试</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>4fa648a7-35cf-4a68-95e9-146a5d8884e8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/风险信息/查询及列表功能/ZSXT-1960翻页按钮功能测试</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>939d7b35-7509-45f5-bf36-06e4a1f4a380</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/风险信息/查询及列表功能/ZSXT-1904各字段组合查询功能测试</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>016c0111-77ee-49a7-a75e-36b5167693a6</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/风险信息/录入/ZSXT-1945录入风险信息时产品ID校验</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>fe2f8d97-7502-452f-894c-f799af215adf</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/风险信息/录入/ZSXT-1724录入风险信息时机种名称校验</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>300db94d-e4e7-4b53-b502-590da118de9c</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>4a3e099c-ff3d-4113-ba4f-d53bd04f6958</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/风险信息/录入/ZSXT-1971录入风险信息时风险原因校验</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>9a5266d6-9ee8-4bca-8104-8fdcf8c79a9f</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>7ef73d11-3115-4b8e-a31c-802a52673d4b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/风险信息/录入/ZSXT-1763录入风险信息时对策情况校验</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>f4cb0b3d-f08f-425f-9404-fa19ad24f6f1</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>869fab7a-4d38-4bc8-ac4e-1e02bacbea4a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/风险信息/录入/ZSXT-1936录入风险信息,所有字段都填写,提交成功</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>1241665d-fd65-4762-abb9-65f1e5844f44</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>564022aa-d649-46c4-8d26-b498bfddf747</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>abd178bf-1d94-48d6-94a3-b646c373ea1c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>f64da06d-b5d4-4045-b4b5-5a7bedcc2623</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>1d44460c-3273-41a1-95da-a989a68217b8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/风险信息/录入/ZSXT-1822录入风险信息,只填必填字段,提交成功</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>1f96ed34-bc72-4a65-af57-48331b1cff48</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>78c064d3-7b85-46b0-a903-b03daa9ba98e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>23cb2ac6-ef07-417b-8939-66970dd2a9b6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c30108e2-3b81-463c-9ce4-875507cf71f1</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>bc8bcc0b-aa80-46e4-86fe-deb6f203300b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/风险信息/编辑/ZSXT-1913编辑风险信息时产品ID校验</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b2449096-5a4d-4c9a-ac01-c5b421821909</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/风险信息/编辑/ZSXT-1773选择一条风险信息,编辑必填字段,编辑成功</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>5c5e07bd-a9c1-4dc7-a0a8-6870f3774089</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>e717fb34-5c70-449f-8935-a608c101a4fa</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>685f058a-779c-4786-9c1b-1922854107dd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>0352a7e1-558b-4864-9af4-c36dcada5eb3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>4b7b3cce-3321-4767-a596-5e05f44a66d8</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>ab7393c0-eabd-4cc6-b281-408dcb8e3d7d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/风险信息/编辑/ZSXT-1939编辑风险信息,所有字段都填写,提交成功</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>4abfd22e-784f-4bce-a5d7-52e01175e39a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>15e8cfd0-e633-4390-bcf1-f353dcae8979</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a7385bcc-66f8-4db9-bab3-956f9b9189f3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c9e3cade-94cf-4d98-a82f-302482e2d826</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>bf5f124f-9ed6-42a2-95f4-fb29831d9a80</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>0e65fd9f-2919-4e3f-b369-447ccb4d97de</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/风险信息/导出功能/ZSXT-1832搜索出需要导出的记录,点击导出按钮,可以成功导出对应的记录</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f88a1ed5-ef01-4d5c-9b8f-441fd8c21513</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/风险信息/导出功能/ZSXT-1841导出1条记录</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>91d3c6a0-50af-4f4c-95e0-71f4822b2930</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/风险信息/导出功能/ZSXT-1982导出11条记录</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>640801a5-fc57-4d70-95ad-8fb3ab817d20</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/风险信息/导出功能/ZSXT-1735导出10条记录</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>8609e1d4-8af0-4084-8b2e-6e518f618fdd</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/风险信息/删除功能/ZSXT-1995选择需要删除的记录,删除成功</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>28d09393-13cd-4897-bba4-e8cd9bacd54b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/风险信息/删除功能/ZSXT-1854删除的数据保存在回收站里面</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>5ab0b635-786f-4759-be9a-6961aa616f11</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/风险信息/删除功能/ZSXT-1775点击每页的全选按钮,选中当前页的所有记录,删除成功</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b541f436-7ac3-4014-b8d3-beaa43685172</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/风险信息/删除功能/ZSXT-1826不选择任何记录,直接点击删除按钮,提示需要选择删除的记录</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>529cd4f5-185f-410a-8832-f263ae5eda87</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/风险信息/清除功能/ZSXT-1912直接点击清除按钮,清除成功</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>495a0abc-4ffc-4de0-a05b-3f0d233015ca</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/风险信息/清除功能/ZSXT-1961查询列输入所有信息,点击清除按钮,清除成功</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>60a407f9-9ee5-410d-abd2-a4b652231501</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/风险信息/产品控制台/ZSXT-1889点击产品ID进入产品控制台</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>72cfd80b-5aa2-4af2-a328-25964ef01473</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/追溯系统-产品管理/综合信息/风险信息/产品控制台/ZSXT-1781产品控制台信息</testCaseId>
+   </testCaseLink>
+</TestSuiteEntity>

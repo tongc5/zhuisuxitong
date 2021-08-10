@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-1762不选择任何字段,直接点击查询按钮</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea030521-012c-482d-9ae2-5c1652991069</testCaseGuid>
+</TestCaseEntity>

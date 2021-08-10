@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-1792批量导入功能测试(产品ID不填进行导入,有已知问题)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d0c95fbe-cc33-4a34-a311-bd832305cd58</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-2696单个试装控制台根据客户流向状态查询</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>67cf247d-9ad1-4b7d-8c12-c77e79702c39</testCaseGuid>
+   <variable>
+      <defaultValue>'外销仓库'</defaultValue>
+      <description></description>
+      <id>5cacf999-220a-4d7b-b35a-0f0ad64fc79d</id>
+      <masked>false</masked>
+      <name>customerFlow1</name>
+   </variable>
+</TestCaseEntity>

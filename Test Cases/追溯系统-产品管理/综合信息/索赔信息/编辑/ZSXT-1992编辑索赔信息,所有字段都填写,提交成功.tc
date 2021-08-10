@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-1992编辑索赔信息,所有字段都填写,提交成功</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>29b7cf89-584f-46e4-9cc4-3f905d3cd5a5</testCaseGuid>
+   <variable>
+      <defaultValue>'2'</defaultValue>
+      <description></description>
+      <id>ec5099b7-2ac2-45ec-91ed-32b9cfceb84e</id>
+      <masked>false</masked>
+      <name>free</name>
+   </variable>
+</TestCaseEntity>

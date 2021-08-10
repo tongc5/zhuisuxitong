@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-1749录入索赔信息,只填必填字段,提交成功</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7748f75a-c44f-4a63-b7d4-f973acc2c7c2</testCaseGuid>
+   <variable>
+      <defaultValue>'2'</defaultValue>
+      <description></description>
+      <id>22aed6fb-f3ec-4cba-89f7-9497faa92f69</id>
+      <masked>false</masked>
+      <name>free</name>
+   </variable>
+</TestCaseEntity>

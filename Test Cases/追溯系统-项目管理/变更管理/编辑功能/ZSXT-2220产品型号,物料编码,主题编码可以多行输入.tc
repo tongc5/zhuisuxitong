@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-2220产品型号,物料编码,主题编码可以多行输入</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>34ba106d-c098-4096-92f5-002123309aa3</testCaseGuid>
+   <variable>
+      <defaultValue>'SEED-10IA-55\nSEED-7I0A-55'</defaultValue>
+      <description></description>
+      <id>3e49212c-0a33-4247-8e59-ad5fa67ade7c</id>
+      <masked>false</masked>
+      <name>product_model</name>
+   </variable>
+   <variable>
+      <defaultValue>'240808000001\n240808000002'</defaultValue>
+      <description></description>
+      <id>f671d202-c1a5-4df4-b8ea-c31443e6e380</id>
+      <masked>false</masked>
+      <name>material_id</name>
+   </variable>
+   <variable>
+      <defaultValue>'13901120\n13901121'</defaultValue>
+      <description></description>
+      <id>b103f419-3bff-48da-bf31-e20fefb04423</id>
+      <masked>false</masked>
+      <name>main_id</name>
+   </variable>
+</TestCaseEntity>

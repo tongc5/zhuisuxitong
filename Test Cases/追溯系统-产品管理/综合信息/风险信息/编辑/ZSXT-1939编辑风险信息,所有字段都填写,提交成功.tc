@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-1939编辑风险信息,所有字段都填写,提交成功</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b7efda4a-ba28-40a1-a0a7-09257bec0fcb</testCaseGuid>
+   <variable>
+      <defaultValue>'风险原因2'</defaultValue>
+      <description></description>
+      <id>4abfd22e-784f-4bce-a5d7-52e01175e39a</id>
+      <masked>false</masked>
+      <name>risk_reason2</name>
+   </variable>
+   <variable>
+      <defaultValue>'对策情况2'</defaultValue>
+      <description></description>
+      <id>15e8cfd0-e633-4390-bcf1-f353dcae8979</id>
+      <masked>false</masked>
+      <name>countermeasureCondition2</name>
+   </variable>
+   <variable>
+      <defaultValue>'故障现象2'</defaultValue>
+      <description></description>
+      <id>a7385bcc-66f8-4db9-bab3-956f9b9189f3</id>
+      <masked>false</masked>
+      <name>breakdownPhenomenon2</name>
+   </variable>
+   <variable>
+      <defaultValue>'对策内容2'</defaultValue>
+      <description></description>
+      <id>c9e3cade-94cf-4d98-a82f-302482e2d826</id>
+      <masked>false</masked>
+      <name>countermeasureContent2</name>
+   </variable>
+   <variable>
+      <defaultValue>'20210101'</defaultValue>
+      <description></description>
+      <id>bf5f124f-9ed6-42a2-95f4-fb29831d9a80</id>
+      <masked>false</masked>
+      <name>risk_num2</name>
+   </variable>
+</TestCaseEntity>

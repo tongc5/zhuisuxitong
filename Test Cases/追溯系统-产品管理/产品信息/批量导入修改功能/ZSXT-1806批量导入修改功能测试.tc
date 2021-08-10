@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-1806批量导入修改功能测试</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>63347f03-4dc5-4dd3-9881-5397661a39f2</testCaseGuid>
+   <variable>
+      <defaultValue>'2200000000000002'</defaultValue>
+      <description></description>
+      <id>1ed1cefd-126f-4d8e-9203-c5f1a19e6ad0</id>
+      <masked>false</masked>
+      <name>productId_2200000000000002</name>
+   </variable>
+</TestCaseEntity>

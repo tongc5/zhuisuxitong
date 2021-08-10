@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-1736删除的产品信息含有试装编码,删除后,试装编码处的累计试装数量需要更新</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c60054f6-7cfa-42ac-9da3-321164ffdbec</testCaseGuid>
+</TestCaseEntity>

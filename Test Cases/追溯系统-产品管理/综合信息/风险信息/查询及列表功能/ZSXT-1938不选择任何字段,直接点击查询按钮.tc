@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-1938不选择任何字段,直接点击查询按钮</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b5bc7dc8-522b-4da9-8145-5bcb71052911</testCaseGuid>
+</TestCaseEntity>

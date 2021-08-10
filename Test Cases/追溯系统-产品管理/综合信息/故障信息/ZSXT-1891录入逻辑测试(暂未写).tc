@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-1891录入逻辑测试(暂未写)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c94a7da1-5a7f-4ff1-bf4d-8e50d1e85332</testCaseGuid>
+   <variable>
+      <defaultValue>'1111111111'</defaultValue>
+      <description></description>
+      <id>9bd00faa-f129-4db4-9111-c533c5137f9f</id>
+      <masked>false</masked>
+      <name>string_10</name>
+   </variable>
+   <variable>
+      <defaultValue>'111111111'</defaultValue>
+      <description></description>
+      <id>a830f357-d4c5-4425-b1fd-f5e68c6bc5e8</id>
+      <masked>false</masked>
+      <name>string_9</name>
+   </variable>
+   <variable>
+      <defaultValue>'11111111111'</defaultValue>
+      <description></description>
+      <id>c9bcbfd9-0dbb-46dc-b286-ca077f6ab165</id>
+      <masked>false</masked>
+      <name>string_11</name>
+   </variable>
+   <variable>
+      <defaultValue>'ss'</defaultValue>
+      <description></description>
+      <id>45f46adb-50dd-4d65-967f-88ed7e9b99f9</id>
+      <masked>false</masked>
+      <name>string_ss</name>
+   </variable>
+   <variable>
+      <defaultValue>'--'</defaultValue>
+      <description></description>
+      <id>6d273080-e327-4265-b0cd-0b904b230615</id>
+      <masked>false</masked>
+      <name>string_</name>
+   </variable>
+</TestCaseEntity>

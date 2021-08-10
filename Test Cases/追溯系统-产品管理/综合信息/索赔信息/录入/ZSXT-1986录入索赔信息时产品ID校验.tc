@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ZSXT-1986录入索赔信息时产品ID校验</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0041622e-965c-4b7e-8eb7-f8e5d57b124d</testCaseGuid>
+</TestCaseEntity>
